@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Airtest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="mraid">Mraid/banner ad demo \n XML layout</string>
+<string name="mraidDynamic">Mraid/banner ad demo \n Dynamic layout</string>
+</resources>
